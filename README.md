@@ -29,3 +29,6 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 #### Easy Ensemble Classifier
 
 ![Easy Ensemble Classifier](images/ensemble.png)
+
+### Summary
+When we look at the data for each method we can see that the Easy Ensemble Classifier has the highest Balanced Accuracy Score(0.932), the lowest false negative(983) and the highest F1-score(0.97), so for this particular dataset this would be the best choice of method.
